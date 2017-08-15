@@ -5,4 +5,5 @@
 A simple contactSelector app.
 
 #Demo演示：
+
 ![](https://github.com/awenzeng/ContactSelector/blob/master/resource/contact_selector.gif)
