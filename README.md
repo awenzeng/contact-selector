@@ -11,6 +11,7 @@ A simple contact selector app.Please feel free to use this. (Welcome to Star and
 
 # Download
 You can download a jar from GitHub's [releases page](https://github.com/awenzeng/ContactSelector/releases).
+
 Or use Gradle:
 ```java
 	allprojects {
@@ -45,6 +46,7 @@ For info on using the bleeding edge, see the [Snapshots](https://jitpack.io/#awe
 
 # ProGuard
 Depending on your ProGuard (DexGuard) config and usage, you may need to include the following lines in your proguard.cfg 
+
 ```java
 #Glide混淆
 -keep public class * implements com.bumptech.glide.module.GlideModule
@@ -78,6 +80,7 @@ Depending on your ProGuard (DexGuard) config and usage, you may need to include 
 ```
 # How do I use Camera?
 Simple use cases with camera's generated API will look something like this:
+
 In your Activity:
 ```java
         mPermissionsModel.checkContactsPermission(new PermissionsModel.PermissionListener() {
@@ -89,7 +92,7 @@ In your Activity:
                             startActivityForResult(intent, RESULT_CODE);
                         }
                     }
-                });
+      });
         
     
        @Override
@@ -109,6 +112,7 @@ In your Activity:
 ```
 
 # License
+
 ```java
 Copyright 2017 AwenZeng
 
