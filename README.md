@@ -78,8 +78,8 @@ Depending on your ProGuard (DexGuard) config and usage, you may need to include 
 }
 
 ```
-# How do I use Camera?
-Simple use cases with camera's generated API will look something like this:
+# How do I use ContactSelector?
+Simple use cases with ContactSelector's generated API will look something like this:
 
 In your Activity:
 ```java
