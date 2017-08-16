@@ -5,7 +5,7 @@
 A simple contact selector app.Please feel free to use this. (Welcome to Star and Fork)
 
 # Demo：
-[Download apk](https://github.com/awenzeng/ContactSelector/blob/master/app/app-Awen_release-release.apk)
+[Download apk](https://github.com/awenzeng/ContactSelector/blob/master/app/app-Awen_release-release.apk?raw=true)
 
 ![](https://github.com/awenzeng/ContactSelector/blob/master/resource/contact_selector.gif)
 
