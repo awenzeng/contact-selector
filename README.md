@@ -2,7 +2,7 @@
 [![JitPack](https://jitpack.io/v/awenzeng/ContactSelector.svg)](https://jitpack.io/#awenzeng/ContactSelector)
 [![Downloads](https://jitpack.io/v/awenzeng/ContactSelector/month.svg)](https://jitpack.io/#awenzeng/ContactSelector)
 
-A simple contactSelector app.Please feel free to use this. (Welcome to Star and Fork)
+A simple contact selector app.Please feel free to use this. (Welcome to Star and Fork)
 
 # Demo：
 [Download apk](https://fir.im/c6ta)
