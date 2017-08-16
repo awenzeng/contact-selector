@@ -5,7 +5,7 @@
 A simple contact selector app.Please feel free to use this. (Welcome to Star and Fork)
 
 # Demo：
-[Download apk](https://fir.im/c6ta)
+[Download apk](https://github.com/awenzeng/ContactSelector/blob/master/app/app-Awen_release-release.apk)
 
 ![](https://github.com/awenzeng/ContactSelector/blob/master/resource/contact_selector.gif)
 
@@ -110,6 +110,14 @@ In your Activity:
     }
 
 ```
+# Thanks
+[Rxjava](https://github.com/ReactiveX/RxJava)
+
+[RxAndroid](https://github.com/ReactiveX/RxAndroid)
+
+[RxPermissions](https://github.com/tbruyelle/RxPermissions)
+
+[ContactsPicker](https://github.com/angcyo/ContactsPicker)
 
 # License
 
