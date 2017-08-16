@@ -10,7 +10,7 @@ A simple contact selector app.Please feel free to use this. (Welcome to Star and
 ![](https://github.com/awenzeng/ContactSelector/blob/master/resource/contact_selector.gif)
 
 # Download
-You can download a jar from GitHub's [releases page](https://github.com/awenzeng/ContactSelector/releases).
+You can download the latest version  from GitHub's [releases page](https://github.com/awenzeng/ContactSelector/releases).
 
 Or use Gradle:
 ```java
