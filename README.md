@@ -1,16 +1,16 @@
 # ContactSelector
-[![JitPack](https://jitpack.io/v/awenzeng/ContactSelector.svg)](https://jitpack.io/#awenzeng/ContactSelector)
-[![Downloads](https://jitpack.io/v/awenzeng/ContactSelector/month.svg)](https://jitpack.io/#awenzeng/ContactSelector)
+[![JitPack](https://jitpack.io/v/awenzeng/contact-selector.svg)](https://jitpack.io/#awenzeng/ContactSelector)
+[![Downloads](https://jitpack.io/v/awenzeng/contact-selector/month.svg)](https://jitpack.io/#awenzeng/contact-selector)
 
 A simple contact selector app.Please feel free to use this. (Welcome to Star and Fork)
 
 # Demo：
-[Download apk](https://github.com/awenzeng/ContactSelector/blob/master/app/app-Awen_release-release.apk?raw=true)
+[Download apk](https://github.com/awenzeng/contact-selector/blob/master/app/app-Awen_release-release.apk?raw=true)
 
-![](https://github.com/awenzeng/ContactSelector/blob/master/resource/contact_selector.gif)
+![](https://github.com/awenzeng/contact-selector/blob/master/resource/contact_selector.gif)
 
 # Download
-You can download the latest version  from GitHub's [releases page](https://github.com/awenzeng/ContactSelector/releases).
+You can download the latest version  from GitHub's [releases page](https://github.com/awenzeng/contact-selector/releases).
 
 Or use Gradle:
 ```java
@@ -22,7 +22,7 @@ Or use Gradle:
 	}
   
 	dependencies {
-	        compile 'com.github.awenzeng:ContactSelector:1.0.0'
+	        compile 'com.github.awenzeng:contact-selector:1.0.0'
 	}
 
 
@@ -38,11 +38,11 @@ Or Maven:
   
 <dependency>
 	    <groupId>com.github.awenzeng</groupId>
-	    <artifactId>ContactSelector</artifactId>
+	    <artifactId>contact-selector</artifactId>
 	    <version>1.0.0</version>
 	</dependency>
 ```
-For info on using the bleeding edge, see the [Snapshots](https://jitpack.io/#awenzeng/ContactSelector) wiki page.
+For info on using the bleeding edge, see the [Snapshots](https://jitpack.io/#awenzeng/contact-selector) wiki page.
 
 # ProGuard
 Depending on your ProGuard (DexGuard) config and usage, you may need to include the following lines in your proguard.cfg 
