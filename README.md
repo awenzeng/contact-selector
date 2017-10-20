@@ -1,5 +1,5 @@
 # ContactSelector
-[![JitPack](https://jitpack.io/v/awenzeng/contact-selector.svg)](https://jitpack.io/#awenzeng/ContactSelector)
+[![JitPack](https://jitpack.io/v/awenzeng/contact-selector.svg)](https://jitpack.io/#awenzeng/contact-selector)
 [![Downloads](https://jitpack.io/v/awenzeng/contact-selector/month.svg)](https://jitpack.io/#awenzeng/contact-selector)
 
 A simple contact selector app.Please feel free to use this. (Welcome to Star and Fork)
